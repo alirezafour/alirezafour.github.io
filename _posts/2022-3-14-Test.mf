@@ -1,0 +1,8 @@
+---
+layout: post
+title: A Testing Post
+---
+
+#Check  
+if this post or not
+## :)
