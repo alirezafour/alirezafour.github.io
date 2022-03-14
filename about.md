@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I love programming and gaming, My favorite language is c++.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Been learning clean code, testing, and trying to make professional code that everyone love to read <3.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[LinkedIn](https://www.linkedin.com/in/alirezafour/)
+[alirezafour@gmail.com](mailto:alirezafour@gmail.com)
