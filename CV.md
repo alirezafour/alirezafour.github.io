@@ -38,3 +38,12 @@ IsfahanLug (iLug) is a nonprofit Linux Users' Group which consists of Programmer
    - #### Bachlor in Computer software engineering  
 Islamic Azad University of Najafabad, Iran— Bachelor  
 Participate in the first ACM Competition, My final project in bachlor became top 3 and represented in computer exhibition.  
+  
+#### Unreal skills :  
+C++, Blueprint , Behaviour Tree for AI, Multiplayer, Ability system and tags, Implementing different game mechanic  
+  
+#### Programming skills :
+building for different platform and using its api to adding more feature to the game  
+  
+ #### other skills :  
+ Linux, Bash, Pyhon  
