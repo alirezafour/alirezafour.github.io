@@ -45,7 +45,7 @@ C++, Blueprint , Behaviour Tree for AI, Multiplayer, Ability system and tags, Im
 #### Programming skills :
 building for different platform and using its api to adding more feature to the game  
 Debugging  
-writing automate test cases 
+writing automate test cases  
 profiling  
   
  #### other skills :  
