@@ -8,6 +8,9 @@ permalink: /CV/
 C++ / Unreal Engine Developer  
 
 ### EXPERIENCE  
+  - #### Kodobur - Game Developer  
+    Jan 2022 - present  
+ Game company that make games for consoles Nintendo / PS4, Making AI, programming designed UI, performance check, Debugging crash working with console api to implement needed feature.  
   - #### MS1, Iran— programmer  
     Sep 2015 - Sep 2016  
 A Small company that teaches programming and makes automated applications for other companies.  
