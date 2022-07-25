@@ -12,7 +12,7 @@ self-taught programmer + bachlor in software programming
 Favorite language C++  
 Like writing clean code with a good performance.   
    
-Skills: C++ software development. Unreal Engine 4, Game Development  
+Skills: C++ software development, Unreal Engine 4/5, Game Development  
   
   used linux OS for few years, as well as bcoming moderator in isfahan LUG ( linux user group of isfahan )  
 ### Contact me
