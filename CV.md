@@ -47,8 +47,10 @@ IsfahanLug (iLug) is a nonprofit Linux Users' Group which consists of Programmer
  - ThirdPerson Shooter Game — Small Video Game  
   simple third person shooter game with ai, written with c++ / unreal   
  - ThridPerson Sword Game - unfinished personal project   
-  new started project for my fantasy test of sword game, so far I finished multi-thread layer base animation system with help of lyra project added simple sword attack with Gameplay Ability System.
-
+  new started project for my fantasy test of sword game, so far I finished multi-thread layer base animation system with help of lyra project added simple sword attack with Gameplay Ability System.  
+ - Auto Battler - auto battler game  
+  a game like Riot TFT which you put your units on the board and AI do the rest. it implemented with C++/UE5 with help of Gameplay ability system to provide attack/ability/buff/debuff and etc.  
+  
  ### EDUCATION  
    - #### Bachlor in Computer software engineering  
 Islamic Azad University of Najafabad, Iran— Bachelor  
