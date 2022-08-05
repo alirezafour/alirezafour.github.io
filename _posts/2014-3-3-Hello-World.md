@@ -3,8 +3,12 @@ layout: post
 title: First Testing Post
 ---
 
-Hello world form jekyll :)
+Portfolio project
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![pre game](images/preGame.jpg)  
+  
+this prototype made with unreal engine 5 and c++ using help of gameplay ability system. [video link](https://youtu.be/VfHrgmFq7n0).  
+  
+ 
+ ![in fight](images/inFight.jpg)  
+   
