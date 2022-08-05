@@ -1,9 +1,9 @@
 ---
 layout: post
-title: First Testing Post
+title: Portfolio Project
 ---
 
-Portfolio project
+Portfolio Project
 
 ![pre game]({{ site.baseurl }}/images/preGame.jpg)  
   
